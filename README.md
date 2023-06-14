@@ -73,6 +73,6 @@ Download the files and save in a single folder, then run the BinarySearchTree.cp
 
 James Lee - [LinkedIn](https://www.linkedin.com/in/jhblee21/) - Jameshblee21@gmail.com
 
-Project Link: [https://jhblee21.github.io/Python-Text-Adventure-Game/](https://jhblee21.github.io/Python-Text-Adventure-Game/)
+Project Link: [https://github.com/jhblee21/Binary-Search-Tree](https://github.com/jhblee21/Binary-Search-Tree)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
